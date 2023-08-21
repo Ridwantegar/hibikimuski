@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kabirsingh2004/JUGNU-MUSIC.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kabirsingh2004/JUGNU-MUSIC/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/kabirsingh2004/JUGNU-MUSIC#readme",
+  "homepage": "",
   "dependencies": {
     "@discordjs/voice": "^0.16.0",
     "@distube/deezer": "^1.0.0",
